@@ -1,6 +1,6 @@
 # Challenge Oracle-ONE Literalura
 
-Este es una aplicación de consola de Java Spring Boot que proporciona una interfaz para administrar libros y autores.
+Este es una aplicación de consola de Java Spring Boot que proporciona una interfaz para administrar libros y autores utilizando JSON web API for Project Gutenberg
 
 ## Características
 
@@ -29,7 +29,7 @@ La aplicación proporciona una interfaz de consola. Sigue las instrucciones para
 
 ```
 Elija la opción a través de su número:
-1- Buscar libro por titulo
+1- Buscar libro por título
 2- Listar libros registrados
 3- Listar autores registrados
 4- Listar autores vivos en un determinado año
